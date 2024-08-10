@@ -5,5 +5,5 @@ Results: Comparative analysis proved that Random first is the best classificatio
 
 Prediction: Random forest gave 93% accuracy followed by SVM at 87% and Logistic Regression at 86%.
 
-The project code also calculates F1 score, Confusion matrix, Decision matrix.
+The project code also calculates F1 score of 0.72, Confusion matrix, Decision matrix.
 
